@@ -6,6 +6,12 @@ lenet.index
 lenet.meta*
 *.sw*
 
+#bogdan temp files
+traffic-signs-data.zip
+test.p
+train.p
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
